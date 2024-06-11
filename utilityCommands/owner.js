@@ -4,8 +4,8 @@ module.exports = {
     name: 'owner',
     description: 'Bot owner info',
     execute(message, args) {
-        const youtubeLink = 'https://www.youtube.com/@GlaceYT';
-        const InstagramLink = 'https://www.instagram.com/glaceytt';
+        const youtubeLink = 'https://youtube.com/@juttgangstergaming4261?si=Z0LbrQmGIgrxQbNX';
+        const InstagramLink = 'https://www.instagram.com/dj_abdullah_guy/';
         const embed = new EmbedBuilder()
             .setColor('#FFFFFF')
             .setTitle(' 🫅 Owner Info')
