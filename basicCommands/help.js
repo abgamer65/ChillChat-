@@ -17,7 +17,7 @@ module.exports = {
         url: 'https://discord.gg/RfQ27TH3'
     })
      
-      .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [GlaceYT](https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A)**\n\n__**COMMANDS :**__ `)
+      .setDescription(`__**STATS :**__\n\n> **📊 Bot in servers:** ${serverCount}\n> **🟢 Bot Ping:** ${botPing}ms\n> **👑 Made By [HuzaifaYT](https://youtube.com/@juttgangstergaming4261?si=Z0LbrQmGIgrxQbNX)**\n\n__**COMMANDS :**__ `)
       .addFields(
       
         {
@@ -66,12 +66,12 @@ module.exports = {
 
     const button2 = new ButtonBuilder()
       .setLabel('Discord')
-      .setURL('https://discord.gg/xQF9f9yUEM')
+      .setURL('https://discord.gg/RfQ27TH3')
       .setStyle(ButtonStyle.Link);
 
     const button3 = new ButtonBuilder()
       .setLabel('Code')
-      .setURL('https://github.com/GlaceYT')
+      .setURL('https://discord.gg/RfQ27TH3')
       .setStyle(ButtonStyle.Link);
       
     const row = new ActionRowBuilder()
