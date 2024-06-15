@@ -13,7 +13,7 @@ module.exports = {
             .setAuthor({
               name: 'Support Server',
               iconURL: 'https://media.discordapp.net/attachments/1165539147881132142/1166348715850735616/6dbd7d91d3fc153376a97682697bb14e107c5f337a992b0ee0c6456f137bf015.gif?ex=6668e823&is=666796a3&hm=36c0f4bca0045c201025858fb1dac71be849ed8b7d478f8c7dfde344173d33bd&', 
-              url: 'https://discord.gg/xQF9f9yUEM'
+              url: ''
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
             .setImage('https://media.discordapp.net/attachments/1165539147881132142/1166348715850735616/6dbd7d91d3fc153376a97682697bb14e107c5f337a992b0ee0c6456f137bf015.gif?ex=6668e823&is=666796a3&hm=36c0f4bca0045c201025858fb1dac71be849ed8b7d478f8c7dfde344173d33bd&')
