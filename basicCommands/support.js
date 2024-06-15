@@ -5,8 +5,8 @@ module.exports = {
     description: 'support server of this Bot',
     execute(message, args) {
         const supportServerLink = "https://discord.gg/RfQ27TH3";
-      const githubLink = "https://github.com/";
-      const replitLink = "https://replit.com/@GlaceYT";
+      const githubLink = "";
+      const replitLink = "";
       const youtubeLink = "https://youtube.com/@juttgangstergaming4261?si=Z0LbrQmGIgrxQbNX";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
