@@ -5,7 +5,7 @@ module.exports = {
     description: 'support server of this Bot',
     execute(message, args) {
         const supportServerLink = "https://discord.gg/RfQ27TH3";
-      const githubLink = "https://discord.gg/RfQ27TH3";
+      const githubLink = "https://github.com/GlaceYT/Multi-Musix-ADV";
       const replitLink = "https://discord.gg/RfQ27TH3";
       const youtubeLink = "https://youtube.com/@juttgangstergaming4261?si=Z0LbrQmGIgrxQbNX";
         const embed = new EmbedBuilder()
