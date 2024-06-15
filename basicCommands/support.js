@@ -6,7 +6,7 @@ module.exports = {
     execute(message, args) {
         const supportServerLink = "https://discord.gg/RfQ27TH3";
       const githubLink = "https://github.com/GlaceYT/Multi-Musix-ADV";
-      const replitLink = "https://discord.gg/RfQ27TH3";
+      const replitLink = "https://replit.com/@GlaceYT";
       const youtubeLink = "https://youtube.com/@juttgangstergaming4261?si=Z0LbrQmGIgrxQbNX";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
